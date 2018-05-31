@@ -5,6 +5,8 @@ SKILLS DEMONSTRATED:
 - API requests and JSON data manipulation
 - JavaScript
 - jQuery
+- Mobile-first responsive styling implemented using Flexbox
+- HTML & CSS with Sass
 
 PURPOSE:
 
