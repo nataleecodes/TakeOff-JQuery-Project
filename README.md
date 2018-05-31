@@ -1,5 +1,4 @@
 # TakeOff-JQuery-Project
-Project 4 - Take Off
 
 SKILLS DEMONSTRATED:
 
@@ -12,5 +11,5 @@ PURPOSE:
 - Allow users to search for summer road trip destinations within a short drive from Toronto
 - Provide restaurant and accommodation recommendations based on user preferences (hotel or camping) and restaurant ratings
 
-A group project for HackerYou's Web Development Immersive program. 
+A two-person project completed within the Web Development Immersive program at HackerYou College of Technology in Toronto, Canada.
 
